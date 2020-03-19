@@ -17,6 +17,7 @@ namespace GitTutorial
             Console.WriteLine("Hello GIT 4!");
 
             Console.WriteLine("Commit via GitKraken!");
+            Console.WriteLine("Commit via Git in Visual Studio 2019!");
         }
     }
 }
