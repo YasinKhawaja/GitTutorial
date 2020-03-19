@@ -11,6 +11,7 @@ namespace GitTutorial
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GIT 1!");
+            Console.WriteLine("Hello GIT 2!");
         }
     }
 }
