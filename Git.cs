@@ -13,6 +13,7 @@ namespace GitTutorial
             Console.WriteLine("Hello GIT 1!");
             Console.WriteLine("Hello GIT 2!");
             Console.WriteLine("Hello GIT 3!");
+            Console.WriteLine("Hello GIT 4!");
         }
     }
 }
